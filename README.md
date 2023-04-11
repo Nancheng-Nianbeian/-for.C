@@ -1,5 +1,4 @@
 # -for.C
-练习
 #includin<stdio.h>
 int main()
 int i= 0;
